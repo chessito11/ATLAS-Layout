@@ -1,0 +1,10 @@
+{
+  "name": "ATLAS Layout",
+  "short_name": "ATLAS Layout",
+  "description": "ATLAS Layout V27 offline jobsite DXF layout tool",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827"
+}
